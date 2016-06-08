@@ -1,0 +1,22 @@
+{
+  "name": "node-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World in Node and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treyreynolds/node-helloworld.git"
+  },
+  "author": "Trey Reynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treyreynolds/node-helloworld/issues"
+  },
+  "homepage": "https://github.com/treyreynolds/node-helloworld#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
